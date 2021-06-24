@@ -12,12 +12,14 @@ Du får vite av en litt mer senior utvikler at det kan være lurt å kjøre denn
 ```
 git rebase main --exec pytest
 ```
+Pass på at alle commits i feature-branch1 passerer testene ved å kjøre pytest etter hver commit.
 
 
-Relevante kommandoer:
+Relevante kommandoer (å lese om):
 * squash
-* rebase -i
-* push -f
+* rebase --interactive
+* rebase --exec
+* push --force
 ## Del 1
 
 # Ressurser å bruke som start
