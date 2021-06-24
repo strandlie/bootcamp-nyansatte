@@ -2,6 +2,24 @@
 Workshops og annet for bootcamp for nyansatte
 
 
+# Oppgaver
+## Intro
+Du jobber i en organisasjon som har bestemt at det ikke er lov til å pushe commits til master som feiler tester. På en feature-branch kjører testene grønt nå, men du merker at det er mer enn en commit.
+
+Den allvitende tech leaden har bestemt at man skal aldri squashe commits når man merger, fordi da klumper man (potensielt) sammen for mange endringer.
+
+Du får vite av en litt mer senior utvikler at det kan være lurt å kjøre denne før man lager en merge request:
+```
+git rebase main --exec pytest
+```
+
+
+Relevante kommandoer:
+* squash
+* rebase -i
+* push -f
+## Del 1
+
 # Ressurser å bruke som start
 * https://github.com/neuralsandwich/git-workshop
 
