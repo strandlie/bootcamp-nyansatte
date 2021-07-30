@@ -23,6 +23,9 @@ Relevante kommandoer (å lese om):
 ## Del 1
 
 # Ressurser å bruke som start
+* https://missing.csail.mit.edu/2020/version-control/
+MIT sin "The Missing Semester of your CS education" - Inneholder en del forklaring, en forelesning, lenker til andre ressurser og noen oppgaver.
+
 * https://github.com/neuralsandwich/git-workshop
 
 Gammel (2014), men ser ut som den har mye i seg. Viste seg å ikke være så bra. Men den gir en grei introduksjon.
