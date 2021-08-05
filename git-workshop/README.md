@@ -1,3 +1,35 @@
+# First things first
+Enkle oppgaver som oppvarming.
+
+Del 1:
+1. Fork repo (kun 1 person)
+    * Gjøres i github/gitlab
+1. Klon den nye forken
+    * `git clone <url-fra-github/gitlab>`
+1. Lag en ny branch med ditt navn
+    * `git checkout -b <navn>` eller `git branch <navn>`
+    * Sjekk hvilken branch du er på med `git branch` eller `git status`
+1. Lag en ny fil med ditt navn
+    * Skriv inn to (2) av dine favoritt-band, -serier, -filmer, -spill, -sporter, -bøker, -malerier, -land å reise til, eller -språk.
+    <!-- Denne delen kan kanskje flyttes til senere, siden den skal lage merge conflicts -->
+1. Lag en ny fil med navnet "greatest.txt"
+    * Skriv inn enten: "The greatest thinkers of all time", "The greatest type of rock of all time", "The greatest ice creams of all time", eller en annen tittel for de beste av noe slag. Du kan også skrive overskriften på norsk
+    * Fyll inn med minst en (1) person/ting
+    <!-- Slutt på flyttes til senere -->
+1. Legg til og commit filene
+    * `git add <filnavn>`
+    * `git status` for å se hvordan det ligger an
+    * `git commit` -> den vil åpne editoren som er konfigurert til å brukes, når du lukker vil det commites
+1. Merge tilbake til master
+    * `git merge --help`
+    * `git checkout master`
+    * `git merge <branchnavn>`
+
+Del 2:
+
+
+
+
 
 
 # Oppgaver
