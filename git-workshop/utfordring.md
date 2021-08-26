@@ -7,8 +7,10 @@ Du får vite av en litt mer senior utvikler at det kan være lurt å kjøre denn
 ```
 git rebase main --exec pytest
 ```
-Pass på at alle commits i `feature-branch1` passerer testene ved å kjøre `pytest` etter hver commit.
+Pass på at alle commits i `feature-branch` passerer testene ved å kjøre `pytest` etter hver commit.
+Hvis noen tester feiler må du fikse koden og så committe tilbake.
 
+Bonus: Det er en fil som ikke bør være med i en av committene.
 
 Relevante kommandoer (å lese om):
 * squash
