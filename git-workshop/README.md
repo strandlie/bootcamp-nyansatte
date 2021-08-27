@@ -16,8 +16,8 @@ Når det oppstår et problem skal dere hjelpe hverandre til å løse det.
 1. Legg til og commit filene
     * `git add <filnavn>`
     * `git status` for å se hvordan det ligger an
-    * `git commit` -> den vil åpne teksteditoren som er konfigurert til å brukes, når du lukker vil det commites (hvis dere har problemer, ta kontakt med Peter)
-1. **Stopp! Nå skal dere jobbe sammen**. Dere skal løse de neste delene sekvensielt. Altså skal kun en person sitt tastatur være aktivt om gangen. Gjør stegene til det er ferdig for første person; gå deretter til neste person.
+    * `git commit` -> den vil åpne teksteditoren som er konfigurert til å brukes, når du lukker vil det commites
+1. **Stopp! Nå skal dere jobbe sammen**. Dere skal løse de neste stegene sekvensielt. Altså skal kun en person sitt tastatur være aktivt om gangen. Gjør stegene til det er ferdig for første person; gå deretter til neste person.
 1. Push endringene dine til remote repository
     * `git push`
 1. Om det er endringer i remote må dere pulle ned endringene
