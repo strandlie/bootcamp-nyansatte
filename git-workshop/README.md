@@ -33,15 +33,6 @@ Når det oppstår et problem skal dere hjelpe hverandre til å løse det.
 [Litt informasjon om merge conflicts om man vil](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 
 
-# Del 2
-
-## Intro
-I denne delen skal dere få trening i å jobbe med forskjellige strategier for konflikthåndtering i Git. Hver del kommer fra en gitt måte å arbeide på.
-
-Hver del vil lenke til et eget repository som dere skal forke og jobbe på.
-
-
-
 # Tilfeldige ressurser for de som vil lese mer
 * https://missing.csail.mit.edu/2020/version-control/
 
