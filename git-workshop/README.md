@@ -5,6 +5,9 @@ Når det oppstår et problem skal dere hjelpe hverandre til å løse det.
 ## Del 1:
 1. Klon repoet
     * `git clone <url-fra-github>`
+1. Hver gruppe må ha sin egen branch
+    * `git checkout -b <gruppe-navn>` for å lage en ny branch med navnet <gruppe-navn> og samtidig sjekke den ut
+    * Alle på samme gruppe skal være på samme branch
 1. Lag en ny fil med ditt navn
     * Skriv inn to (2) av dine favoritt-band, -serier, -filmer, -spill, -sporter, -bøker, -malerier, -land å reise til, eller -språk.
 1. Legg til og commit filen
